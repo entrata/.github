@@ -1,6 +1,6 @@
 {
   "name": "PHP Package Release",
-  "description": "Entrata PHP package release version workflow",
+  "description": "Publish PHP package releases to Satis",
   "iconName": "php-packagist",
   "categories": [
     "PHP"
