@@ -1,0 +1,12 @@
+{
+  "name": "PHP Package Release",
+  "description": "Entrata PHP package release version workflow",
+  "iconName": "php-packagist.svg",
+  "categories": [
+    "PHP"
+  ],
+  "filePatterns": [
+    "composer.json$",
+    "composer.lock$"
+  ]
+}
