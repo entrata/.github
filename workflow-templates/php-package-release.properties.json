@@ -1,7 +1,7 @@
 {
   "name": "PHP Package Release",
   "description": "Entrata PHP package release version workflow",
-  "iconName": "php-packagist.svg",
+  "iconName": "php-packagist",
   "categories": [
     "PHP"
   ],
