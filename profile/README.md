@@ -1,3 +1,3 @@
 # Entrata
 
-![Entrata](https://www.entrata.com/img/entrata_logo.svg)
+<img src="https://www.entrata.com/img/entrata_logo.svg" width="150"/>
